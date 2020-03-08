@@ -141,8 +141,6 @@ int main()
     scanf("%d", &n);
     creategraph(adjlist,n);
     BFS(adjlist,n,1);
-    
-
 }
                     
                     
